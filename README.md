@@ -52,6 +52,25 @@ Key findings from Phase 1:
 
 ---
 
+## Running the Project in JupyterLab
+
+If you want to work with notebooks using JupyterLab, follow these steps.
+
+Firstly, ensure you have the repository cloned in a local working directory, and open a terminal in that folder.
+
+### 1. Install JupyterLab (if not already)
+```bash
+pip install jupyterlab
+```
+For more install methods (conda, pipx, etc.):
+[https://jupyter.org/install](url)
+
+### 2. Launch Jupyter Lab
+```bash
+jupyter notebook
+```
+From there, the folder will open up in your browser, you can then access all the notebooks, with precompiled code, allowing you to check outputs, or run the code blocks on your own machine
+
 ## Contributors
 Group 15, consists of:
 
